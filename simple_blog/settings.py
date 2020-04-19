@@ -26,7 +26,7 @@ SECRET_KEY = 'c#+oy7**0e_k%da-8b+n@_57hab78k%^o2e%-p1o16^qja2=0%'
 DEBUG = True
 
 ALLOWED_HOSTS = []
-
+AUTH_USER_MODEL = 'user.User'
 
 # Application definition
 
